@@ -79,58 +79,5 @@
     "singer": "Denis Kenzo",
     "album": "我是歌手第二季 第6期"
     "lrc":""
-  },
-  {
-    "src": "hhttp://m7.music.126.net/20190428140439/60a3e66b86d9fbb397d58412bdb28abd/ymusic/572d/15e2/f6d7/9783faa9f9836a854aaf1c7b3b4a31d7.mp3",
-    "img": "https://p3.music.126.net/OO59wy9uDFKjmdmb9h2t6A==/109951163512287703.jpg?param=300y300",
-    "time": "3:39",
-    "name": "Young For You",
-    "singer": "GALA",
-    "album": "2的奉献--GALA爱爱爱新年音乐会Vol.1"
-    "lrc": ""
-  },
-  {
-    "src": "http://m8.music.126.net/20190428140701/b45c06b4440f6d3261ceee8ca8a22bd6/ymusic/bf45/0881/acff/1af7d8812b7c298f5e26f4a4a6baa656.mp3",
-    "img": "https://p3.music.126.net/MMLtLPgGYB-wcznvNNlqEg==/19063332602599644.jpg?param=300y300",
-    "time": "4:56",
-    "name": "Ain't It Fun",
-    "singer": "Paramore",
-    "album": "paramore"
-    "lrc": ""
-  },
-  {
-    "src": "http://m8.music.126.net/20190428140843/6c00af3db5a9cd2f09a9319c8caf8f9c/ymusic/4a5b/bd8e/0570/8a3177454c4af901625a79bcc77f7d77.mp3",
-    "img": "https://p3.music.126.net/u5wUwKIJwRoN0UNFFU9DSg==/109951163261665668.jpg?param=300y300",
-    "time": "4:00",
-    "name": "A Spring Without You",
-    "singer": "Kozoro",
-    "album": "A Spring Without You"
-    "lrc":""
-  },
-  {
-    "src": "http://m8.music.126.net/20190428141038/79733d2f1509428e613111808915137f/ymusic/5558/0f5a/015c/b26938d8f38028593b2a668c788c3c8b.mp3",
-    "img": "https://p3.music.126.net/ol5I7So8kHncjiFWLLYb8Q==/2262794929978909.jpg?param=300y300",
-    "time": "04:30",
-    "name": "Reception",
-    "singer": "Ryan Farish",
-    "album": "Life in Stereo"
-    "lrc": ""
-  },
-  {
-    "src": "http://m2.music.126.net/WigWFuErwgAwJ2sX1uLQeQ==/6634453163541582.mp3",
-    "img": "http://singerimg.kugou.com/uploadpic/softhead/400/20161227/20161227165336675.jpg",
-    "time": "4:28",
-    "name": "KoZoRo",
-    "singer": "Reception"
-    "lrc": "  "
-  },
-  {
-    "src": "http://m2.music.126.net/Z1wT8h1gZjEJFULcLvpdpg==/7711974557600267.mp3",
-    "img": "http://singerimg.kugou.com/uploadpic/softhead/400/20161227/20161227165336675.jpg",
-    "time": "5:18",
-    "name": "Thank You",
-    "singer": "KoZoRo",
-    "album": "    "
-    "lrc":  ""
   }
 ]
